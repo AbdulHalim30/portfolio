@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customCream: "#f9f8f5",
+      },
+      fontFamily: {
+        jost: ["var(--font-jost)", "sans-serif"],
       },
     },
   },
