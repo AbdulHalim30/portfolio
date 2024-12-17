@@ -17,8 +17,8 @@ const portfolioData = [
       "A personal portfolio website showcasing skills, projects, and contact information.",
     technologies: ["Nextjs", "Tailwindcss"],
     image: portfolio,
-    github: null,
-    demo: null,
+    github: "https://github.com/AbdulHalim30/portfolio",
+    demo: "abdul-halim.me",
   },
   {
     id: 2,
