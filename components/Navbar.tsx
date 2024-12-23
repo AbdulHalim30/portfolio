@@ -126,6 +126,13 @@ const Navbar: React.FC = () => {
                   </a>
                 )
               )}
+              <a
+                className="relative inline-block text-black py-2 px-8 my-2 ml-6 rounded-full border-2 border-orange-600"
+                href="#"
+                onClick={downloadUrl}
+              >
+                <span className="font-bold">Download CV</span>
+              </a>
             </div>
           )}
         </div>
